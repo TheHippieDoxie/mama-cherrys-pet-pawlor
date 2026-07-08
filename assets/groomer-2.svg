@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+    <rect width="900" height="600" fill="#fff3d6"/>
+    <circle cx="450" cy="245" r="105" fill="#265F7A" opacity=".9"/>
+    <circle cx="380" cy="145" r="38" fill="#4aa3c7"/><circle cx="450" cy="118" r="38" fill="#4aa3c7"/><circle cx="520" cy="145" r="38" fill="#4aa3c7"/>
+    <circle cx="402" cy="330" r="34" fill="#4aa3c7"/><circle cx="498" cy="330" r="34" fill="#4aa3c7"/>
+    <text x="450" y="500" text-anchor="middle" font-family="Arial" font-size="54" font-weight="700" fill="#265F7A">Groomer Photo</text>
+    <text x="450" y="548" text-anchor="middle" font-family="Arial" font-size="24" fill="#555">Replace this image in /assets</text>
+  </svg>
